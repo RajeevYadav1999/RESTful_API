@@ -1,0 +1,27 @@
+1714722233230, GET, /users, ::11714722261410, POST, /api/users, ::11714722286444, POST, /api/users, ::1
+
+ 1714992189318, POST, /api/users, ::1
+
+ 1714992352424, POST, /api/users, ::1
+
+ 1714992381775, POST, /api/users, ::1
+
+ 1714992499369, POST, /api/users, ::1
+
+ 1714993318707, GET, /users, ::1
+
+ 1714993330671, GET, /api/users, ::1
+
+ 1714994127687, GET, /api/users/6638b43d2b5025a98f544866, ::1
+
+ 1714994976600, PATCH, /api/users/6638b4fd83ec95138c0d74c2, ::1
+
+ 1715013339460, POST, /api/users, ::1
+
+ 1715013433040, PATCH, /api/users/663906dbbb11d971500afdfc, ::1
+
+ 1715013469354, DELETE, /api/users/663906dbbb11d971500afdfc, ::1
+
+ 1715013586555, DELETE, /api/users/663906dbbb11d971500afdfc, ::1
+
+ 1715013623483, DELETE, /api/users/663906dbbb11d971500afdfc, ::1
